@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>weak</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>@property (nonatomic, weak) &lt;#Class#&gt; *&lt;#object#&gt;;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>717CF7B9-E300-4BB8-A24F-64D1F6FB349E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>My Weak</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
